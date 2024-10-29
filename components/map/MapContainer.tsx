@@ -9,6 +9,7 @@ import { useThemeContext } from "@/context/ThemeContext";
 import { baseFeatureLayer, metadata50k, metadata25k, metadata10k, metadata5k, stateFeatureLayer, districtFeatureLayer } from "@/components/map/FeatureLayer/featureLayers";
 import dynamic from "next/dynamic";
 import DrawWidget from "./widget/DrawWidget";
+import BasemapWidget from "./widget/BaseMapWidget";
 
 const HomeWidget = dynamic(() => import("@/components/map/widget/HomeWidget"), { ssr: false });
 const LayerListWidget = dynamic(() => import("@/components/map/widget/LayerListWidget"), { ssr: false });
@@ -87,6 +88,7 @@ const MapContainer: React.FC = () => {
           <MeasurementWidget view={mapView} />
           <ScaleBarWidget view={mapView} />
           <DrawWidget view={mapView} />
+          <BasemapWidget view={mapView}/>
           
         </>
       )}
