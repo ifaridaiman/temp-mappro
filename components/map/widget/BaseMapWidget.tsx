@@ -25,7 +25,7 @@ const BasemapWidget:React.FC<BasemapWidgetProps> = ({view}) => {
                 content: baseMapDiv.current,
                 group: "expandable-widgets"
             });
-            view.ui.add(baseMapExpand, "top-right");
+            view.ui.add(baseMapExpand, "top-left");
         }
     },[view])
   return null
