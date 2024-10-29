@@ -1,0 +1,188 @@
+{
+  "data": {
+    "classification": [
+      {
+        "id": "f3c973b3-437e-4f2a-9439-cf0f52cf6010",
+        "category": "Bandar",
+        "noLembar": "AF2412",
+        "scale": "5K",
+        "LMD": "2020",
+        "availableImage": 10,
+        "setImage": 5
+      },
+      {
+        "id": "4f3d49b2-08e3-4a64-8e13-3d9f5a345f5d",
+        "category": "Pelbagai",
+        "noLembar": "BG1423",
+        "scale": "5K",
+        "LMD": "2021",
+        "availableImage": 15,
+        "setImage": 7
+      },
+      {
+        "id": "95364d41-ea90-47ab-9d41-f7891a7f5e0d",
+        "category": "Bandar",
+        "noLembar": "CD8934",
+        "scale": "10K",
+        "LMD": "2017",
+        "availableImage": 8,
+        "setImage": 4
+      },
+      {
+        "id": "c4b0d0e7-243a-4b3a-8f25-efb8bfa7ad6e",
+        "category": "Pelbagai",
+        "noLembar": "EH6521",
+        "scale": "5K",
+        "LMD": "2023",
+        "availableImage": 12,
+        "setImage": 6
+      },
+      {
+        "id": "0b2d176f-5f19-4e19-87af-f275b2162345",
+        "category": "Bandar",
+        "noLembar": "DF9321",
+        "scale": "10K",
+        "LMD": "2019",
+        "availableImage": 9,
+        "setImage": 5
+      },
+      {
+        "id": "2a7f02f7-4d82-498d-8492-b6c34733cf14",
+        "category": "Pelbagai",
+        "noLembar": "KL3728",
+        "scale": "5K",
+        "LMD": "2022",
+        "availableImage": 14,
+        "setImage": 7
+      },
+      {
+        "id": "4cc23f5d-3cc4-4959-9142-e28d441c8a89",
+        "category": "Bandar",
+        "noLembar": "ZM4821",
+        "scale": "5K",
+        "LMD": "2016",
+        "availableImage": 11,
+        "setImage": 6
+      },
+      {
+        "id": "6d78f4b2-7033-41cf-83b4-e6a8b58e78da",
+        "category": "Pelbagai",
+        "noLembar": "JK5271",
+        "scale": "10K",
+        "LMD": "2018",
+        "availableImage": 13,
+        "setImage": 8
+      },
+      {
+        "id": "0fc41a6d-1b3b-4c44-b3f7-2f88b7d5f2b1",
+        "category": "Bandar",
+        "noLembar": "FG7213",
+        "scale": "5K",
+        "LMD": "2024",
+        "availableImage": 12,
+        "setImage": 6
+      },
+      {
+        "id": "e2ccf982-d462-4f5e-aaf6-ef3c0db5b1cc",
+        "category": "Pelbagai",
+        "noLembar": "BT8432",
+        "scale": "10K",
+        "LMD": "2020",
+        "availableImage": 10,
+        "setImage": 5
+      },
+      {
+        "id": "51aadb22-8b9c-42ee-bd92-10e75bbda0d1",
+        "category": "Bandar",
+        "noLembar": "HN2384",
+        "scale": "5K",
+        "LMD": "2015",
+        "availableImage": 16,
+        "setImage": 8
+      },
+      {
+        "id": "913d78ad-d8cf-4ff7-a5fc-9fa8c1960bb3",
+        "category": "Pelbagai",
+        "noLembar": "CR9284",
+        "scale": "10K",
+        "LMD": "2014",
+        "availableImage": 10,
+        "setImage": 5
+      },
+      {
+        "id": "e7338a2a-bb1b-44e4-91c1-28eb485ac16c",
+        "category": "Bandar",
+        "noLembar": "LP4357",
+        "scale": "5K",
+        "LMD": "2021",
+        "availableImage": 14,
+        "setImage": 7
+      },
+      {
+        "id": "3549b29f-f2d3-48bb-9806-d49174fb4f6e",
+        "category": "Pelbagai",
+        "noLembar": "MO2839",
+        "scale": "5K",
+        "LMD": "2023",
+        "availableImage": 12,
+        "setImage": 6
+      },
+      {
+        "id": "3a4c5428-364b-4605-8416-9d6df65f8f57",
+        "category": "Bandar",
+        "noLembar": "NA7834",
+        "scale": "10K",
+        "LMD": "2016",
+        "availableImage": 9,
+        "setImage": 5
+      },
+      {
+        "id": "bda9e2b2-e82f-4e92-b2b1-5f3a8d119d7f",
+        "category": "Pelbagai",
+        "noLembar": "QA1395",
+        "scale": "10K",
+        "LMD": "2019",
+        "availableImage": 13,
+        "setImage": 7
+      },
+      {
+        "id": "d3f4c9a2-98b3-4b91-905b-e61cb54f1499",
+        "category": "Bandar",
+        "noLembar": "RE5738",
+        "scale": "5K",
+        "LMD": "2024",
+        "availableImage": 14,
+        "setImage": 7
+      },
+      {
+        "id": "14db9149-679f-4685-8e44-7eaa7e1e2fa1",
+        "category": "Pelbagai",
+        "noLembar": "ST1289",
+        "scale": "10K",
+        "LMD": "2022",
+        "availableImage": 10,
+        "setImage": 5
+      },
+      {
+        "id": "482c6344-013b-4e7c-a2cc-f98bba5d9354",
+        "category": "Bandar",
+        "noLembar": "VW3894",
+        "scale": "5K",
+        "LMD": "2018",
+        "availableImage": 12,
+        "setImage": 6
+      },
+      {
+        "id": "c2e4e59f-ec55-40cb-96f2-36232ef0cf97",
+        "category": "Pelbagai",
+        "noLembar": "YU3948",
+        "scale": "10K",
+        "LMD": "2017",
+        "availableImage": 11,
+        "setImage": 6
+      }
+    ]
+  },
+  "error": "200",
+  "message": "Success"
+}
