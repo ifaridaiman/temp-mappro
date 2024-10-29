@@ -1,5 +1,4 @@
 import React, { useRef, useEffect, useState } from "react";
-import view from "@arcgis/core/views/view";
 import Sketch from "@arcgis/core/widgets/Sketch.js";
 import Expand from "@arcgis/core/widgets/Expand";
 import Graphic from "@arcgis/core/Graphic";
